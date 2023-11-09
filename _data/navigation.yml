@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Aktuelles"
+    url: /aktuelles/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  - title: "Studium und Lehre"
+    url: /studiumundlehre/
+
+  - title: "Fachgruppen"
+    url: /fachgruppe/
+  - title: "Personen"
+    url: /personen/
+  - title: "Kontakt"
+    url: /kontakt/
+  - title: "Anfahrt"
+    url: https://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/emmy.html?lang=de/
+    
