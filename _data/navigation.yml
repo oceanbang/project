@@ -20,5 +20,5 @@ main:
   - title: "Kontakt"
     url: /kontakt/
   - title: "Anfahrt"
-    url: https://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/emmy.html?lang=de/
+    url: https://www.uni-siegen.de/start/kontakt/anfahrt_und_lageplaene/emmy.html?lang=de/ {:target="_blank"}
     
