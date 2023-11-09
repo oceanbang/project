@@ -1,4 +1,4 @@
 title: Herzlich willkommen im Department Mathematik
 logo: assets/images/web_mathe_kleeblatt_ohne_text.png
 show_downloads: false
-theme: jekyll-theme-minimal 
+theme: minimal-mistakes-jekyll
