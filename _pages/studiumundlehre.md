@@ -1,5 +1,5 @@
 ---
 layout: single
-title: "Mathematik studieren in Siegens"
+title: "Mathematik studieren in Siegen"
 permalink: /studiumundlehre/
 ---
