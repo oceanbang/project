@@ -1,5 +1,5 @@
 ---
 layout: single
 title: "Fachgruppen"
-permalink: /fachgruppen/
+permalink: /fachgruppe/
 ---
