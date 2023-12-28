@@ -19,6 +19,7 @@ Referent: Dr. Masayoshi Kaneda<br>
 
 <details>
   <summary>Do. 16.11.23, Vortrag</summary>
+  
   ### Vortrag
   <p>Embedded Ethics in Mathematics<br>
  
