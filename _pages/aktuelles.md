@@ -7,7 +7,7 @@ permalink: /aktuelles/
 <details>
   <summary>Mi. 15.11.2023, Oberseminar Geomathematik</summary>
   
-  ### Oberseminar Geomathematik
+  <h3>Oberseminar Geomathematik</h3>
  <p>C*-algebras and noncommutative topology.<br>
 Mittwoch, den 15. November 2023, 12:30 Uhr, Raum ENC-B 205 ,<br>
 
@@ -20,7 +20,7 @@ Referent: Dr. Masayoshi Kaneda<br>
 <details>
   <summary>Do. 16.11.23, Vortrag</summary>
   
-  ### Vortrag
+  <h3>Vortrag</h3>
   <p>Embedded Ethics in Mathematics<br>
  
 
@@ -40,7 +40,7 @@ Referent:<br>
 <details>
   <summary>Mi. 18.10.23, Vortrag</summary>
 
-  ### Vortrag
+  <h3>Vortrag</h3>
   <p>The Shadow of God<br>
  
 
@@ -74,7 +74,7 @@ Wolfgang Hein</p>
 <details>
   <summary>Di. 05.09.2023, Oberseminar Algebra</summary>
 
-  ### Oberseminar Algebra
+  <h3>Oberseminar Algebra</h3>
   <p>A Foundation for Synthetic Algebraic Geometry.<br>
 Dienstag, den 5. September 2023, 11:00 Uhr s.t., Raum ENC-D 201 ,<br>
 
