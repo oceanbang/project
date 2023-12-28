@@ -53,7 +53,7 @@ Referent:<br>
  
 
 (Havard)</p>
-<p><a href="https://www.uni-siegen.de/fb6/phima/vortrag-michael-rosen/" target="_blank">Weitere Informationen</p>
+<p><a href="https://www.uni-siegen.de/fb6/phima/vortrag-michael-rosen/" target="_blank">Weitere Informationen</p></a>
   <p>Wir laden alle Interessenten herzlich zum Vortrag ein.</p>
 </details>
 
