@@ -29,14 +29,18 @@ permalink: /personen/
         <td align="center"><a href="mailto:tommy.hofmann@uni-siegen.de" class="cd_mailto">email</a></td>             
       </tr>
 
-              <tr>                 <td align="left"><a href="https://wwwuser.gwdg.de/~jjahnel/" class=" cd_intlink">Jahnel,                 Jörg, Prof. Dr.</a></td>                  <td align="center">                 3569</td>                  <td align="left">ENC                 B-312</td>                  <td align="center">                 <a href="mailto:jahnel@mathematik.uni-siegen.de" class="
-	  cd_mailto">                 email</a></td>             </tr>              <tr>                 <td align="left"><a href="http://www.uni-siegen.de/fb6/src/kaufmann/" class=" cd_intlink">Kaufmann,                 Edgar, Prof. Dr.</a></td>                  <td align="center">                 3585</td>                  <td align="left">ENC                 B-215</td>                  <td align="center">                 <a href="mailto:kaufmann@mathematik.uni-siegen.de" class="
-	  cd_mailto">                 email</a></td>             </tr>
+<tr>  
+	<td align="left"><a href="https://wwwuser.gwdg.de/~jjahnel/" class=" cd_intlink">Jahnel, Jörg, Prof. Dr.</a></td>                  
+	<td align="center">3569</td>                  
+	<td align="left">ENC B-312</td>                  
+	<td align="center"><a href="mailto:jahnel@mathematik.uni-siegen.de" class="cd_mailto">email</a></td></tr>              
+ <tr>                 
+	 <td align="left"><a href="http://www.uni-siegen.de/fb6/src/kaufmann/" class=" cd_intlink">Kaufmann, Edgar, Prof. Dr.</a></td>                  <td align="center">3585</td>
+	 <td align="left">ENC B-215</td>                  
+	 <td align="center"><a href="mailto:kaufmann@mathematik.uni-siegen.de" class="cd_mailto">email</a></td>             
+ </tr>
 
-
-
-
-              <tr>                 <td align="left"><a href="http://www.uni-siegen.de/fb6/geomathe/staff/michel.html?lang=de%E2%8C%A9=de" class=" cd_intlink">                 Michel, Volker, Prof. Dr.</a></td>                  <td align="center">                 3515</td>                  <td align="left">ENC                 B-206</td>                  <td align="center">                 <a href="mailto:michel@mathematik.uni-siegen.de" class="
+<tr>                 <td align="left"><a href="http://www.uni-siegen.de/fb6/geomathe/staff/michel.html?lang=de%E2%8C%A9=de" class=" cd_intlink">                 Michel, Volker, Prof. Dr.</a></td>                  <td align="center">                 3515</td>                  <td align="left">ENC                 B-206</td>                  <td align="center">                 <a href="mailto:michel@mathematik.uni-siegen.de" class="
 	  cd_mailto">                 email</a></td>             </tr>              <tr>                 <td align="left"><a href="http://www.analysis-mathematik.uni-siegen.de/" class=" cd_intlink">                 Mockenhaupt, Gerd, Prof. Dr.</a></td>                  <td align="center">                 3614</td>                  <td align="left">ENC                 B-309</td>                  <td align="center">                 <a href="mailto:gerdm@mathematik.uni-siegen.de" class="
 	  cd_mailto">                 email</a></td>             </tr>              <tr>                 <td align="left"><a href="http://www.uni-siegen.de/fb6/src/mueller/" class=" cd_intlink">Müller,                 Alfred, Prof. Dr.</a></td>                  <td align="center">                 3587</td>                  <td align="left">ENC                 B-217</td>                  <td align="center">                 <a href="mailto:mueller@mathematik.uni-siegen.de" class="
 	  cd_mailto">                 email</a></td>             </tr>              <tr>                 <td align="left"><a href="http://www.uni-siegen.de/fb6/phima/member/prof/vknickel.html" class=" cd_intlink">                 Nickel, Gregor, Prof. Dr.</a></td>                  <td align="center">                 3606</td>                  <td align="left">ENC                 C-110</td>                  <td align="center">                 <a href="mailto:nickel@mathematik.uni-siegen.de" class="
