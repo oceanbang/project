@@ -56,7 +56,7 @@ permalink: /personen/
 
 
 
-
+<br>
 
 <h1>Sekretariate</h1>
 
@@ -71,12 +71,15 @@ permalink: /personen/
 	  cd_mailto"><img alt="" style=""></a></td>             </tr>         </tbody>     </table> </div>
 
 
-
+<br>
 
 
 <h1>Mitgliederverzeichnis</h1>
-
-<table cellpadding="1" border="0" width="100%" cellspacing="2" style="width:100%; background-color: #f4f4f4">     <tbody>         <tr>             <td width="45\%"><strong>Name</strong></td>              <td width="10\%"><strong>Tel. 740-</strong></td>              <td width="10\%"><em>Raum</em></td>              <td width="10\%"><strong>email</strong></td>              <td width="5\%"><strong>web</strong></td>         </tr>          <tr>             <td align="left" width="40\%">Amouzandeh, Aflatoun             <br></td>              <td align="center"><strong>3570</strong>             <br></td>              <td align="left"><strong>ENC-B 232</strong>             <br></td>              <td align="center"><em><a href="mailto:aflatoun.amouzandeh@uni-siegen.de" class="
+<div style="text-align: center">
+<table border="0">     
+	<tbody>         
+		<tr align="left">             
+			<td width="45\%"><strong>Name</strong></td>              <td width="10\%"><strong>Tel. 740-</strong></td>              <td width="10\%"><em>Raum</em></td>              <td width="10\%"><strong>email</strong></td>              <td width="5\%"><strong>web</strong></td>         </tr>          <tr>             <td align="left" width="40\%">Amouzandeh, Aflatoun             <br></td>              <td align="center"><strong>3570</strong>             <br></td>              <td align="left"><strong>ENC-B 232</strong>             <br></td>              <td align="center"><em><a href="mailto:aflatoun.amouzandeh@uni-siegen.de" class="
 	  cd_mailto">email</a></em>             <br></td>              <td align="center"><a href="http://www.uni-siegen.de/fb6/numerik/nmitarbeiter/czaplinski/" class=" cd_intlink">             link</a>             <br></td>         </tr>          <tr>             <td align="left" width="40\%">Barakat, Mohamed,             Prof. Dr.             <br></td>              <td align="center"><strong>3577</strong>             <br></td>              <td align="left"><strong>ENC-D 208</strong>             <br></td>              <td align="center"><em><a href="mailto:mohamed.barakat@uni-siegen.de" class="
 	  cd_mailto">email</a></em>             <br></td>              <td align="center"><a href="http://www.algebra.mathematik.uni-siegen.de/barakat/" class=" cd_intlink">             link</a>             <br></td>         </tr>          <tr>             <td align="left" width="40\%">Czaplinski, Adam, Dr.             <br></td>              <td align="center"><strong>3609</strong>             <br></td>              <td align="left"><strong>ENC-B 302</strong>             <br></td>              <td align="center"><em><a href="mailto:adam.czaplinski@uni-siegen.de" class="
 	  cd_mailto">email</a></em>             <br></td>              <td align="center"><a href="http://www.uni-siegen.de/fb6/numerik/nmitarbeiter/czaplinski/" class=" cd_intlink">             link</a>             <br></td>         </tr>          <tr>             <td align="left" width="40\%">Dilling, Frederik,             Dr.             <br></td>              <td align="center"><strong>3545</strong>             <br></td>              <td align="left"><strong>AR-H 302</strong>             <br></td>              <td align="center"><em><a href="mailto:dilling@mathematik.uni-siegen.de" class="
@@ -139,7 +142,7 @@ permalink: /personen/
 	  cd_mailto">email</a></em>             <br></td>              <td align="center">--             <br></td>         </tr>          <tr>             <td align="left" width="40\%">Wehn, Carsten             Sebastian, Dr.             <br></td>              <td align="center"><strong>-</strong>             <br></td>              <td align="left"><strong>-</strong>             <br></td>              <td align="center"><em><a href="mailto:carsten.wehn@gmx.de" class="
 	  cd_mailto">email</a></em>             <br></td>              <td align="center"><a href="http://www.carstenwehn.de/" class=" cd_intlink">link</a>             <br></td>         </tr>          <tr>             <td align="left" width="40\%">Witzke, Ingo, Prof.             Dr.             <br></td>              <td align="center"><strong>3579</strong>             <br></td>              <td align="left"><strong>AR-H 303</strong>             <br></td>              <td align="center"><em><a href="mailto:%20witzke@mathematik.uni-siegen.de" class="
 	  cd_mailto">email</a></em>             <br></td>              <td align="center"><a href="http://www.uni-siegen.de/fb6/didaktik/personen/ingo-witzke/" class=" cd_intlink">             link</a>             <br></td>         </tr>          <tr>             <td align="left" width="40\%">Zickgraf, Fabian,             M.Sc.             <br></td>              <td align="center"><strong>3500</strong>             <br></td>              <td align="left"><strong>ENC-D 205</strong>             <br></td>              <td align="center"><em><a href="mailto:fabian.zickgraf@uni-siegen.de" class="
-	  cd_mailto">email</a></em>             <br></td>              <td align="center"><a href="https://algebra.mathematik.uni-siegen.de/zickgraf" class=" cd_intlink">             link</a>             <br></td>         </tr>     </tbody> </table>
+	  cd_mailto">email</a></em>             <br></td>              <td align="center"><a href="https://algebra.mathematik.uni-siegen.de/zickgraf" class=" cd_intlink">             link</a>             <br></td>         </tr>     </tbody> </table></div>
 
 <div style="text-align: center">     <table border="0">         <tbody>             <tr>                 <td colspan="3">                     Fax Nummern                     <hr>                 </td>                  <td style="vertical-align: top">&nbsp;</td>             </tr>              <tr>                 <td align="left">Fax (Department)</td>                  <td align="center">3502</td>                  <td>&nbsp;</td>                  <td>&nbsp;</td>             </tr>              <tr>                 <td align="left">Fax (Prüfungsamt)</td>                  <td align="center">3626</td>                  <td>&nbsp;</td>                  <td>&nbsp;</td>             </tr>              <tr>                 <td colspan="3">&nbsp;</td>                  <td>&nbsp;</td>             </tr>              <tr>                 <td align="left">Fax (Steinhorst)</td>                  <td align="center">13582</td>                  <td>&nbsp;</td>                  <td>&nbsp;</td>             </tr>              <tr>                 <td align="left">Fax (teVaarwerk)</td>                  <td align="center">3627</td>                  <td>&nbsp;</td>                  <td>&nbsp;</td>             </tr>              <tr>                 <td align="left">Fax (Mielke/Numerik)</td>                  <td align="center">3699</td>                  <td>&nbsp;</td>                  <td>&nbsp;</td>             </tr>              <tr>                 <td align="left">Fax (Mielke/WIR)</td>                  <td align="center">3632</td>                  <td>&nbsp;</td>                  <td>&nbsp;</td>             </tr>         </tbody>     </table> </div>
 
