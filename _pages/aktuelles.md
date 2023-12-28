@@ -36,3 +36,23 @@ Referent:<br>
 <p>Abstract: Ethics in Mathematics is often taught through standalone courses and separate seminars. But how can we take the next step and embed the teaching of ethical awareness into the other mathematics courses at the undergraduate level? Standalone courses are often not enough to develop and maintain ethical awareness at a level that is applicable and useable in practice. As future mathematicians, students may require additional training to navigate the plurality of ethical questions that can manifest in mathematical work. Maintaining ethical reasoning skills by integrating them into other mathematical courses may thus be necessary. In this talk, I will explain the recent approach taken by our Cambridge University Ethics in Mathematics Project and introduce our new teaching resources on this topic.</p>
 <p>Wir laden alle Interessenten herzlich zum Vortrag ein.</p>
 </details>
+
+<details>
+  <summary>Mi. 18.10.23, Vortrag</summary>
+
+  ### Vortrag
+  <p>The Shadow of God<br>
+ 
+
+Mittwoch, den 18. Oktober 2023, um 18:00 Uhr c.t. ,  Raum US-C 102<br>
+ 
+
+Referent:<br>
+
+  Prof. Dr. Michael Rosen<br>
+ 
+
+(Havard)</p>
+<p><a href="https://www.uni-siegen.de/fb6/phima/vortrag-michael-rosen/" target="_blank">Weitere Informationen</p>
+  <p>Wir laden alle Interessenten herzlich zum Vortrag ein.</p>
+</details>
