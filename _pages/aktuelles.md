@@ -53,8 +53,9 @@ Referent:<br>
  
 
 (Havard)</p>
-<p><a href="https://www.uni-siegen.de/fb6/phima/vortrag-michael-rosen/" target="_blank">Weitere Informationen</p></a>
+<a href="https://www.uni-siegen.de/fb6/phima/vortrag-michael-rosen/" target="_blank">Weitere Informationen</a>
   <p>Wir laden alle Interessenten herzlich zum Vortrag ein.</p>
+  
 </details>
 
 
@@ -65,7 +66,7 @@ Referent:<br>
 
 Hier beteiligte sich Ulrich Hirzebruch in mannigfaltiger Weise -unter anderem als Dekan- am Aufbau des Lehr- und Forschungsbetriebes der seit 1972 noch in den Unwägbarkeiten der Gründungsphase befindlichen Gesamthochschule. Seine Forschungen rankten sich im weiteren Sinne um die Theorie der nichtassoziativen Algebra, die er in seinen beliebten Oberseminaren mit zahlreichen Studierenden ausbaute. Seine umsichtige, besonnene, ruhige Art in den Lehrveranstaltungen wurde von vielen Studierenden geschätzt und hinterlässt eine schmerzliche Lücke bei den Mitarbeiterinnen und Mitarbeitern des Fachbereichs die ihn vor seiner Emeritierung im Jahr 1999 begleiten durften.
 
-Ulrich Hirzebruch hinterlässt seine Frau, zwei Kinder und drei Enkelkinder. Auf seinen Wunsch hin fand die Beisetzung im engsten Familienkreis in seiner Geburtsstadt Hamm statt.
+Ulrich Hirzebruch hinterlässt seine Frau, zwei Kinder und drei Enkelkinder. Auf seinen Wunsch hin fand die Beisetzung im engsten Familienkreis in seiner Geburtsstadt Hamm statt.<br>
 
 Wolfgang Hein</p>
 </details>
