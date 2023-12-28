@@ -17,7 +17,7 @@ permalink: /fachgruppe/
   </dl>
 </div>
 
-div class="block">
+<div class="block">
   <dl>
     <dd>
       <h1><span style="font-weight:bold"><a target="_self" href="https://www.uni-siegen.de/fb6/aan/?lang=de">Angewandte Analysis und Numerik</a></span></h1>
@@ -29,7 +29,7 @@ div class="block">
   </dl>
 </div>
 
-div class="block">
+<div class="block">
   <dl>
     <dd>
       <h1><span style="font-weight:bold"><a target="_self" href="https://www.uni-siegen.de/fb6/didaktik/?lang=de">Didaktik der Mathematik</a></span></h1>
@@ -41,7 +41,7 @@ div class="block">
 </div>
 
 
-div class="block">
+<div class="block">
   <dl>
     <dd>
       <h1><span style="font-weight:bold"><a target="_self" href="https://www.uni-siegen.de/fb6/phima/?lang=de">Philosophie & Geschichte der Mathematik</a></span></h1>
