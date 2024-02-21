@@ -12,18 +12,9 @@ main:
   #   url: /sitemap/
   - title: "Studium und Lehre"
     url: /studiumundlehre/
-     dropdown:
-       - title: "Formulare"
-        
-      - title: "Studienberatung"
-        
-      - title: "Studieninteressierte"
-        
-      - title: "Schuüler*innen"
-        
-      - title: "Alumni"
-        
-      - title: "Fachschaft"
+     sublinks:
+        - title: "Studiengänge"
+        url: /studiengaenge/
         
    
 
