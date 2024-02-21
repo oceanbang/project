@@ -11,9 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Studium und Lehre"
-     dropdown:
-        - title: "Studiengaenge"
-          url: /studiengaenge/
+    url: /studiumundlehre/
         
    
 
