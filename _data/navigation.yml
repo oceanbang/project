@@ -11,9 +11,10 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Studium und Lehre"
-    dropdown:
-      - title: "Studiengaenge"
-        urL: /studiengaenge/
+    url: /studiumundlehre/
+      sublinks:
+        - title: "Studiengaenge"
+          urL: /studiengaenge/
         
    
 
