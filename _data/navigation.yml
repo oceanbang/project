@@ -14,9 +14,9 @@ main:
     url: /studiumundlehre/
     dropdown:
       - title: "Studiengänge"
-        url: /studiumundlehre/studiengaenge/
+        
       - title: "Prüfungsamt"
-        url: /studiumundlehre/pruefungsamt/
+        
       - title: "Formulare"
         url: /studiumundlehre/formulare/
       - title: "Studienberatung"
