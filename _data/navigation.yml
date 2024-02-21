@@ -12,19 +12,7 @@ main:
   #   url: /sitemap/
   - title: "Studium und Lehre"
     url: /studiumundlehre/
-    sublinks:
-       - title: "Formulare"
-        url: /studiumundlehre/formulare/
-      - title: "Studienberatung"
-        url: /studiumundlehre/studienberatung/
-      - title: "Studieninteressierte"
-        url: /studiumundlehre/studieninteressierte/
-      - title: "Schuüler*innen"
-        url: /studiumundlehre/schuelerinnen/
-      - title: "Alumni"
-        url: /studiumundlehre/alumni/
-      - title: "Fachschaft"
-        url: /studiumundlehre/fachschaft/
+   
 
   - title: "Fachgruppen"
     url: /fachgruppe/
